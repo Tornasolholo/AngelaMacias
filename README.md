@@ -27,5 +27,5 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 
 [![Postman](https://img.shields.io/badge/Postman-ff5733?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-33ff33?style=for-the-badge&logo=Python&logoColor=white)]()
-[![Android Studio](https://img.shields.io/badge/Android Studio-499dfc?style=for-the-badge&logo=Android&logoColor=white)]()
+[![Android Studio](https://img.shields.io/badge/Android_Studio-499dfc?style=for-the-badge&logo=Android&logoColor=white)]()
 [![Pycharm](https://img.shields.io/badge/Pycharm-9849fc?style=for-the-badge&logo=Pycharm&logoColor=white)]()
