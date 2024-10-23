@@ -13,3 +13,12 @@ about me
   
 </div>
 
+
+## Hola! Soy Angela 👋,
+
+Soy QA Engineer recién graduada del bootcamp de Triple Ten, apasionada por el control de calidad y la mejora continua de productos. Mi ambición es seguir creciendo y aprendiendo en este emocionante campo, aplicando las habilidades que he adquirido en automatización de pruebas, detección de errores y optimización de procesos.
+
+Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En este GitHub encontrarás mis proyectos, donde pongo en práctica herramientas como Selenium, JIRA, Postman y PyCharm, además de mi curiosidad constante por nuevas tecnologías. 🚀
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes sugerencias, oportunidades o simplemente para conectar. 😊
+
