@@ -23,6 +23,14 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes sugerencias, oportunidades o simplemente para conectar. 😊
 
 
+¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-macias-170519117/)
+
+* :e-mail: amaciasv22@gmail.com
+
+* :iphone: +593 997213004
+
+
+
 ## Tencologías:
 
 [![Postman](https://img.shields.io/badge/Postman-ff5733?style=for-the-badge&logo=Postman&logoColor=white)]()
@@ -31,3 +39,10 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 [![Pycharm](https://img.shields.io/badge/Pycharm-9849fc?style=for-the-badge&logo=Pycharm&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/SQL-fc49db?style=for-the-badge&logo=SQL&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-fc4974?style=for-the-badge&logo=Figma&logoColor=white)]()
+
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raul-qa-Burguete&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul-qa-Burguete&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--
