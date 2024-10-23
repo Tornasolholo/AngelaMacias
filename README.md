@@ -23,7 +23,7 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes sugerencias, oportunidades o simplemente para conectar. 😊
 
 
-¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-macias-170519117/)
+¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Angela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-macias-170519117/)
 
 * :e-mail: amaciasv22@gmail.com
 
