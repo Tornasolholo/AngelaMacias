@@ -22,3 +22,8 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes sugerencias, oportunidades o simplemente para conectar. 😊
 
+
+## Tencologías:
+
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-FF6C37?style=for-the-badge&logo=Python&logoColor=white)]()
