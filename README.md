@@ -25,5 +25,5 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 
 ## Tencologías:
 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-FF6C37?style=for-the-badge&logo=Python&logoColor=white)]()
+[![Postman](https://img.shields.io/badge/Postman-ff5733?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-33ff33?style=for-the-badge&logo=Python&logoColor=white)]()
