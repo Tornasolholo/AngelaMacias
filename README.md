@@ -41,6 +41,14 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 [![Figma](https://img.shields.io/badge/Figma-fc4974?style=for-the-badge&logo=Figma&logoColor=white)]()
 
 
+## Datos de contacto:
+¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Angela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela-macias-170519117/)
+
+* :e-mail: amaciasv22@gmail.com
+
+* :iphone: +593 997213004
+* 
+
 ### :hammer_and_wrench: Lenguajes y herramientas :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raul-qa-Burguete&theme=dark&background=000000)](https://git.io/streak-stats)
 
