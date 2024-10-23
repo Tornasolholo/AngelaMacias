@@ -29,3 +29,5 @@ Estoy siempre en busca de nuevas oportunidades de crecimiento y aprendizaje. En 
 [![Python](https://img.shields.io/badge/Python-33ff33?style=for-the-badge&logo=Python&logoColor=white)]()
 [![Android Studio](https://img.shields.io/badge/Android_Studio-499dfc?style=for-the-badge&logo=Android&logoColor=white)]()
 [![Pycharm](https://img.shields.io/badge/Pycharm-9849fc?style=for-the-badge&logo=Pycharm&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-fc49db?style=for-the-badge&logo=SQL&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/Figma-fc4974?style=for-the-badge&logo=Figma&logoColor=white)]()
